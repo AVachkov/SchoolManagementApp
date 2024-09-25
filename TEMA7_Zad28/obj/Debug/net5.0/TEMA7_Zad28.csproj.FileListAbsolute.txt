@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\bin\Debug\net5.0\TEMA7_Zad28.exe
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\bin\Debug\net5.0\TEMA7_Zad28.deps.json
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\bin\Debug\net5.0\TEMA7_Zad28.runtimeconfig.json
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\bin\Debug\net5.0\TEMA7_Zad28.runtimeconfig.dev.json
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\bin\Debug\net5.0\TEMA7_Zad28.dll
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\bin\Debug\net5.0\ref\TEMA7_Zad28.dll
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\bin\Debug\net5.0\TEMA7_Zad28.pdb
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\TEMA7_Zad28.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\TEMA7_Zad28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\TEMA7_Zad28.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\TEMA7_Zad28.AssemblyInfo.cs
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\TEMA7_Zad28.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\TEMA7_Zad28.dll
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\ref\TEMA7_Zad28.dll
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\TEMA7_Zad28.pdb
+C:\Users\User\Desktop\My Builds\PomagaloZaDZI\TEMA7_Zad28\TEMA7_Zad28\obj\Debug\net5.0\TEMA7_Zad28.genruntimeconfig.cache

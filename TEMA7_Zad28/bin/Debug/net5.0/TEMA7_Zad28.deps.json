@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TEMA7_Zad28/1.0.0": {
+        "runtime": {
+          "TEMA7_Zad28.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TEMA7_Zad28/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
